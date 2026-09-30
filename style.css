@@ -49,6 +49,7 @@ p {
     font-family: 'patrick hand';
     font-style: italic;
     text-align: justify;
+    cursor: pointer;
 }
 
 .inputs {
